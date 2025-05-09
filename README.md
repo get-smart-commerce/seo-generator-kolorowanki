@@ -16,7 +16,7 @@ SEO Generator dla Kolorowanek to aplikacja stworzona w Pythonie, której celem j
 ## Jak zainstalować
 1. Sklonuj to repozytorium:
     ```bash
-    git clone https://github.com/username/seo-generator-kolorowanki.git
+    git clone https://github.com/get-smart-commerce/seo-generator-kolorowanki.git
     ```
 2. Przejdź do folderu projektu:
     ```bash
